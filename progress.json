@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T09:12:49.233Z",
+  "generated_at": "2026-10-30T17:04:55.964Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -176,6 +176,19 @@
       "path": "problems/1022-l2-normalization-along-an-axis",
       "first_solved_at": "2026-10-30T09:12:47.836Z",
       "last_pushed_at": "2026-10-30T09:12:47.836Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:1072": {
+      "kind": "problem",
+      "id": "1072",
+      "title": "Pairwise Cosine Similarity Matrix",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1072",
+      "path": "problems/1072-pairwise-cosine-similarity-matrix",
+      "first_solved_at": "2026-10-30T17:04:54.927Z",
+      "last_pushed_at": "2026-10-30T17:04:54.927Z",
       "language": "python",
       "lines": 9
     }
